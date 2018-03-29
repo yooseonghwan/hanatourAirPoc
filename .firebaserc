@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "hanat-poc",
+    "default": "hanat-poc"
+  }
+}
